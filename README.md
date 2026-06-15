@@ -1,9 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akhil%20Babu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20%26%20Cybersecurity%20%7C%20AI%2FML%20%7C%20Networking&descAlignY=55&descAlign=50)
+# 👋 Akhil Babu
+
+### IT & Cybersecurity | AI/ML | Networking
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IT+%26+Cybersecurity+Master's+Student+%40+CDU;Networking+%7C+IT+Support+%7C+Security+Fundamentals;AI%2FML+%26+Blockchain+Projects;Open+to+Entry-Level+IT+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IT+%26+Cybersecurity+Master's+Student+%40+CDU;Networking+%7C+IT+Support+%7C+Security+Fundamentals;AI%2FML+%26+Blockchain+Projects" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -61,6 +63,12 @@ Based in Darwin, NT. I bring over a year of professional, client-facing experien
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
 ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 ![Windows](https://skillicons.dev/icons?i=windows&theme=dark)
+
+**Security & Virtualization**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
@@ -161,16 +169,6 @@ Part-time retail role alongside full-time study.
 
 ---
 
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Phunky93&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
@@ -223,8 +221,6 @@ Open To:
 ---
 
 <div align="center">
-
-*"Security isn't a feature — it's a mindset built into every line of code."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
