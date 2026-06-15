@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Akhil Babu
+
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header)
+
+# 👋 Akhil Babu
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=IT+%26+Cybersecurity+Master's+Student+%40+CDU;+Networking+%7C+IT+Support+%7C+Security+Fundamentals;AI%2FML+%26+Blockchain+Projects" alt="Typing SVG" />
